@@ -1,0 +1,162 @@
+{
+  "chunking": {
+    "endChunk": [
+      111,
+      "11.1 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 229
+  },
+  "bestDistance": "10.498202 km",
+  "difficulty": [
+    {
+      "endChunk": "0.1 km",
+      "down": 2,
+      "chunk": 0,
+      "startChunk": "0.0 km",
+      "frac": 0.01091703,
+      "downers": [
+        [
+          "24",
+          "Slava Jelić"
+        ],
+        [
+          "26",
+          "Stjepan Zjacic"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.01091703,
+      "endAhead": "3.6 km",
+      "downs": [
+        "-5.935 km",
+        "-5.878 km"
+      ]
+    },
+    {
+      "endChunk": "2.5 km",
+      "down": 1,
+      "chunk": 24,
+      "startChunk": "2.4 km",
+      "frac": 0.22270742,
+      "downers": [
+        [
+          "22",
+          "Sandi Krč"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.01091703,
+      "endAhead": "6.0 km",
+      "downs": [
+        "2.488 km"
+      ]
+    },
+    {
+      "endChunk": "3.1 km",
+      "down": 2,
+      "chunk": 30,
+      "startChunk": "3.0 km",
+      "frac": 0.27510917,
+      "downers": [
+        [
+          "32",
+          "Laura Grakalich"
+        ],
+        [
+          "35",
+          "Giselle Giampietri"
+        ]
+      ],
+      "downward": 4,
+      "rel": 0.00873362,
+      "endAhead": "6.6 km",
+      "downs": [
+        "3.000 km",
+        "3.000 km"
+      ]
+    },
+    {
+      "endChunk": "4.4 km",
+      "down": 1,
+      "chunk": 43,
+      "startChunk": "4.3 km",
+      "frac": 0.34716157,
+      "downers": [
+        [
+          "10",
+          "Igor Eržen"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00655022,
+      "endAhead": "7.9 km",
+      "downs": [
+        "4.364 km"
+      ]
+    },
+    {
+      "endChunk": "5.1 km",
+      "down": 1,
+      "chunk": 50,
+      "startChunk": "5.0 km",
+      "frac": 0.37991266,
+      "downers": [
+        [
+          "11",
+          "Jerko Odžak"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00655022,
+      "endAhead": "8.6 km",
+      "downs": [
+        "5.014 km"
+      ]
+    },
+    {
+      "endChunk": "7.2 km",
+      "down": 1,
+      "chunk": 71,
+      "startChunk": "7.1 km",
+      "frac": 0.47161572,
+      "downers": [
+        [
+          "19",
+          "Rafal Cypcar"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.00436681,
+      "endAhead": "10.7 km",
+      "downs": [
+        "7.192 km"
+      ]
+    },
+    {
+      "endChunk": "8.5 km",
+      "down": 1,
+      "chunk": 84,
+      "startChunk": "8.4 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "15",
+          "Mitja Jug"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00218341,
+      "endAhead": "12.0 km",
+      "downs": [
+        "8.434 km"
+      ]
+    }
+  ],
+  "lookahead": 35,
+  "minDistance": "3.000 km",
+  "landout": 9
+}

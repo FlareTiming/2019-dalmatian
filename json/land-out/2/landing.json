@@ -1,0 +1,115 @@
+{
+  "chunking": {
+    "endChunk": [
+      161,
+      "16.1 km"
+    ],
+    "startChunk": [
+      0,
+      "0.0 km"
+    ],
+    "sumOf": 214
+  },
+  "bestDistance": "15.729020 km",
+  "difficulty": [
+    {
+      "endChunk": "0.1 km",
+      "down": 3,
+      "chunk": 0,
+      "startChunk": "0.0 km",
+      "frac": 0.01401869,
+      "downers": [
+        [
+          "24",
+          "Slava Jelić"
+        ],
+        [
+          "26",
+          "Stjepan Zjacic"
+        ],
+        [
+          "22",
+          "Sandi Krč"
+        ]
+      ],
+      "downward": 6,
+      "rel": 0.01401869,
+      "endAhead": "6.0 km",
+      "downs": [
+        "-0.564 km",
+        "-0.549 km",
+        "-0.037 km"
+      ]
+    },
+    {
+      "endChunk": "3.1 km",
+      "down": 3,
+      "chunk": 30,
+      "startChunk": "3.0 km",
+      "frac": 0.22429907,
+      "downers": [
+        [
+          "32",
+          "Laura Grakalich"
+        ],
+        [
+          "35",
+          "Giselle Giampietri"
+        ],
+        [
+          "11",
+          "Jerko Odžak"
+        ]
+      ],
+      "downward": 3,
+      "rel": 0.00700935,
+      "endAhead": "9.0 km",
+      "downs": [
+        "3.000 km",
+        "3.000 km",
+        "3.064 km"
+      ]
+    },
+    {
+      "endChunk": "10.7 km",
+      "down": 1,
+      "chunk": 106,
+      "startChunk": "10.6 km",
+      "frac": 0.42523364,
+      "downers": [
+        [
+          "15",
+          "Mitja Jug"
+        ]
+      ],
+      "downward": 2,
+      "rel": 0.0046729,
+      "endAhead": "16.6 km",
+      "downs": [
+        "10.696 km"
+      ]
+    },
+    {
+      "endChunk": "13.9 km",
+      "down": 1,
+      "chunk": 138,
+      "startChunk": "13.8 km",
+      "frac": 0.5,
+      "downers": [
+        [
+          "19",
+          "Rafal Cypcar"
+        ]
+      ],
+      "downward": 1,
+      "rel": 0.00233645,
+      "endAhead": "19.8 km",
+      "downs": [
+        "13.875 km"
+      ]
+    }
+  ],
+  "lookahead": 59,
+  "minDistance": "3.000 km",
+  "landout": 8
+}

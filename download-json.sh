@@ -16,23 +16,35 @@ curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/validit
 curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/pilots-status | jq > json/gap-point/pilots-status.json
 
 mkdir json/fs-score
+curl -X GET -H "Accept:application/json" http://localhost:3000/fs-score/validity | jq > json/fs-score/validity.json
+
+mkdir json/fs-route
+mkdir json/fs-effort
 mkdir json/cross-zone
 mkdir json/cross-zone/track-flying-section
+mkdir json/tag-zone
 mkdir json/peg-frame
 mkdir json/peg-frame/track-scored-section
-mkdir json/tag-zone
 mkdir json/pilot-track
 mkdir json/mask-track
 mkdir json/land-out
 for t in {1..2}
     do
+        mkdir json/fs-effort/$t
+        curl -X GET -H "Accept:application/json" http://localhost:3000/fs-effort/$t/landing | jq > json/fs-effort/$t/landing.json
+
+        mkdir json/fs-route/$t
+        curl -X GET -H "Accept:application/json" http://localhost:3000/fs-route/$t/sphere | jq > json/fs-route/$t/sphere.json
+        curl -X GET -H "Accept:application/json" http://localhost:3000/fs-route/$t/ellipse | jq > json/fs-route/$t/ellipse.json
+
+        mkdir json/fs-score/$t
+        curl -X GET -H "Accept:application/json" http://localhost:3000/fs-score/$t/score | jq > json/fs-score/$t/score.json
+        curl -X GET -H "Accept:application/json" http://localhost:3000/fs-score/$t/validity-working | jq > json/fs-score/$t/validity-working.json
+
         mkdir json/comp-input/$t
         curl -X GET -H "Accept:application/json" http://localhost:3000/comp-input/$t/pilot-abs | jq > json/comp-input/$t/pilot-abs.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/comp-input/$t/pilot-dfnt | jq > json/comp-input/$t/pilot-dfnt.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/comp-input/$t/pilot-dnf | jq > json/comp-input/$t/pilot-dnf.json
-
-        mkdir json/fs-score/$t
-        curl -X GET -H "Accept:application/json" http://localhost:3000/fs-score/$t/score | jq > json/fs-score/$t/score.json
 
         mkdir json/task-length/$t
         curl -X GET -H "Accept:application/json" http://localhost:3000/task-length/$t/spherical-edge | jq > json/task-length/$t/spherical-edge.json
@@ -45,15 +57,19 @@ for t in {1..2}
         curl -X GET -H "Accept:application/json" http://localhost:3000/cross-zone/$t/flying-times | jq > json/cross-zone/$t/flying-times.json
 
         mkdir json/mask-track/$t
-        curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/reach-stats | jq > json/mask-track/$t/reach-stats.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/reach | jq > json/mask-track/$t/reach.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/bonus-reach | jq > json/mask-track/$t/bonus-reach.json
+
+        curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/bolster-stats | jq > json/mask-track/$t/bolster-stats.json
+        curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/bonus-bolster-stats | jq > json/mask-track/$t/bonus-bolster-stats.json
+
         curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/arrival | jq > json/mask-track/$t/arrival.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/lead | jq > json/mask-track/$t/lead.json
         curl -X GET -H "Accept:application/json" http://localhost:3000/mask-track/$t/time | jq > json/mask-track/$t/time.json
 
         mkdir json/land-out/$t
         curl -X GET -H "Accept:application/json" http://localhost:3000/land-out/$t/effort | jq > json/land-out/$t/effort.json
+        curl -X GET -H "Accept:application/json" http://localhost:3000/land-out/$t/landing | jq > json/land-out/$t/landing.json
 
         mkdir json/gap-point/$t
         curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/$t/pilot-df | jq > json/gap-point/$t/pilot-df.json
@@ -62,14 +78,15 @@ for t in {1..2}
         curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/$t/score | jq > json/gap-point/$t/score.json
 
         mkdir json/cross-zone/track-flying-section/$t
+        mkdir json/tag-zone/$t
         mkdir json/peg-frame/track-scored-section/$t
         mkdir json/tag-zone/$t
         mkdir json/pilot-track/$t
         for p in {10,11,15,18,19,22,24,26,32,35}
             do
             curl -X GET -H "Accept:application/json" http://localhost:3000/cross-zone/track-flying-section/$t/$p | jq > json/cross-zone/track-flying-section/$t/$p.json
-            curl -X GET -H "Accept:application/json" http://localhost:3000/peg-frame/track-scored-section/$t/$p | jq > json/peg-frame/track-scored-section/$t/$p.json
             curl -X GET -H "Accept:application/json" http://localhost:3000/tag-zone/$t/$p | jq > json/tag-zone/$t/$p.json
+            curl -X GET -H "Accept:application/json" http://localhost:3000/peg-frame/track-scored-section/$t/$p | jq > json/peg-frame/track-scored-section/$t/$p.json
             curl -X GET -H "Accept:application/json" http://localhost:3000/pilot-track/$t/$p | jq > json/pilot-track/$t/$p.json
             done
     done
