@@ -1,0 +1,16 @@
+[
+  {
+    "time": 0.746,
+    "launch": 1,
+    "distance": 0.167,
+    "task": 0.125,
+    "stop": null
+  },
+  {
+    "time": 1,
+    "launch": 1,
+    "distance": 0.309,
+    "task": 0.309,
+    "stop": null
+  }
+]

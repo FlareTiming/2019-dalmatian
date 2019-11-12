@@ -1,0 +1,362 @@
+[
+  [
+    [
+      "15",
+      "Mitja Jug"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "12.319000 km",
+        "flown": "10.532000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 112.7,
+        "leading": 4.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 2.32619426,
+      "landedMade": "8.461000 km",
+      "es": null,
+      "total": 117,
+      "ss": "2019-07-11T12:30:00Z",
+      "leadingArea": "95237.0000 km^2 s",
+      "place": "1",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 1,
+        "leading": 0.77586207,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "19",
+      "Rafal Cypcar"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "8.081000 km",
+        "flown": "7.441000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 79.6,
+        "leading": 5.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 2.1716058,
+      "landedMade": "7.181000 km",
+      "es": null,
+      "total": 85,
+      "ss": "2019-07-11T12:30:00Z",
+      "leadingArea": "88908.0000 km^2 s",
+      "place": "2",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.70629991,
+        "leading": 1,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "11",
+      "Jerko Odžak"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "0.000000 km",
+        "flown": "6.629000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 71,
+        "leading": 3.7,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 2.49874809,
+      "landedMade": "5.033000 km",
+      "es": null,
+      "total": 75,
+      "ss": "2019-07-11T12:30:00Z",
+      "leadingArea": "102301.0000 km^2 s",
+      "place": "3",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.62999113,
+        "leading": 0.63793103,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "10",
+      "Igor Eržen"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "0.000000 km",
+        "flown": "4.491000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 48.1,
+        "leading": 4.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 2.32325701,
+      "landedMade": "4.362000 km",
+      "es": null,
+      "total": 53,
+      "ss": "2019-07-11T12:30:00Z",
+      "leadingArea": "95117.0000 km^2 s",
+      "place": "4",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.42679681,
+        "leading": 0.77586207,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "22",
+      "Sandi Krč"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "3.409000 km",
+        "flown": "2.490000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 32.1,
+        "leading": 3.5,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 2.53077758,
+      "landedMade": "2.490000 km",
+      "es": null,
+      "total": 36,
+      "ss": "2019-07-11T12:30:00Z",
+      "leadingArea": "103613.0000 km^2 s",
+      "place": "5",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.28482697,
+        "leading": 0.60344828,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "18",
+      "Petros Miskos"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "0.000000 km",
+        "flown": "1.983000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 32.1,
+        "leading": 3.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 2.62153425,
+      "landedMade": "1.974000 km",
+      "es": null,
+      "total": 35,
+      "ss": "2019-07-11T12:30:00Z",
+      "leadingArea": "107328.0000 km^2 s",
+      "place": "6",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.28482697,
+        "leading": 0.55172414,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "35",
+      "Giselle Giampietri"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "3.000000 km",
+        "flown": "3.000000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 32.1,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": null,
+      "total": 32,
+      "ss": null,
+      "leadingArea": "0.0000 km^2 s",
+      "place": "7",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.28482697,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "24",
+      "Slava Jelić"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "2.011000 km",
+        "flown": "0.000000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 32.1,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": null,
+      "total": 32,
+      "ss": "2019-07-11T12:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "7",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.28482697,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "32",
+      "Laura Grakalich"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "3.000000 km",
+        "flown": "3.000000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 32.1,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": null,
+      "total": 32,
+      "ss": null,
+      "leadingArea": "0.0000 km^2 s",
+      "place": "7",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.28482697,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "26",
+      "Stjepan Zjacic"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "1.235000 km",
+        "flown": "0.000000 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 32.1,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": "0.000000 km",
+      "es": null,
+      "total": 32,
+      "ss": "2019-07-11T12:30:00Z",
+      "leadingArea": "0.0000 km^2 s",
+      "place": "7",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.28482697,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      }
+    }
+  ]
+]

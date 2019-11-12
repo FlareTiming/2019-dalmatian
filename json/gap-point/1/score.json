@@ -1,0 +1,308 @@
+[
+  [
+    [
+      "15",
+      "Mitja Jug"
+    ],
+    {
+      "reach": {
+        "extra": "10.498 km",
+        "flown": "10.498 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 112.374,
+        "distance": 112.374,
+        "leading": 3.9,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "431.000 m",
+      "landedMade": "8.434 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2019-07-11T12:30:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2019-07-11T12:37:24.913596387564Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 116,
+      "penalties": [],
+      "place": "1"
+    }
+  ],
+  [
+    [
+      "19",
+      "Rafal Cypcar"
+    ],
+    {
+      "reach": {
+        "extra": "7.436 km",
+        "flown": "7.436 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 79.598,
+        "distance": 79.598,
+        "leading": 5.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "387.000 m",
+      "landedMade": "7.192 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2019-07-11T12:30:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2019-07-11T12:44:16.444111874983Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 85,
+      "penalties": [],
+      "place": "2"
+    }
+  ],
+  [
+    [
+      "11",
+      "Jerko Odžak"
+    ],
+    {
+      "reach": {
+        "extra": "6.658 km",
+        "flown": "6.658 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 71.27,
+        "distance": 71.27,
+        "leading": 2.7,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "0.000 m",
+      "landedMade": "5.014 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2019-07-11T12:30:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2019-07-11T12:56:45.318557230284Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 74,
+      "penalties": [],
+      "place": "3"
+    }
+  ],
+  [
+    [
+      "10",
+      "Igor Eržen"
+    ],
+    {
+      "reach": {
+        "extra": "4.489 km",
+        "flown": "4.489 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 48.053,
+        "distance": 48.053,
+        "leading": 4.2,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "0.000 m",
+      "landedMade": "4.364 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2019-07-11T12:30:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2019-07-11T12:30:42.855149263116Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 52,
+      "penalties": [],
+      "place": "4"
+    }
+  ],
+  [
+    [
+      "22",
+      "Sandi Krč"
+    ],
+    {
+      "reach": {
+        "extra": "2.488 km",
+        "flown": "2.488 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 32.112,
+        "distance": 32.112,
+        "leading": 2.6,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "393.000 m",
+      "landedMade": "2.488 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2019-07-11T12:30:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2019-07-11T12:34:10.87036933773Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 35,
+      "penalties": [],
+      "place": "5"
+    }
+  ],
+  [
+    [
+      "24",
+      "Slava Jelić"
+    ],
+    {
+      "reach": {
+        "extra": "-1.048 km",
+        "flown": "-1.048 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 32.112,
+        "distance": 32.112,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "455.000 m",
+      "landedMade": "-5.935 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2019-07-11T12:30:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2019-07-11T12:57:53.037410170433Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 32,
+      "penalties": [],
+      "place": "6="
+    }
+  ],
+  [
+    [
+      "26",
+      "Stjepan Zjacic"
+    ],
+    {
+      "reach": {
+        "extra": "-1.379 km",
+        "flown": "-1.379 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 32.112,
+        "distance": 32.112,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "454.000 m",
+      "landedMade": "-5.878 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2019-07-11T12:30:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2019-07-11T13:36:58.587050639303Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 32,
+      "penalties": [],
+      "place": "6="
+    }
+  ],
+  [
+    [
+      "35",
+      "Giselle Giampietri"
+    ],
+    {
+      "reach": {
+        "extra": "2.992 km",
+        "flown": "2.992 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 32.112,
+        "distance": 32.112,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "landedMade": "2.992 km",
+      "penaltyReason": "",
+      "velocity": null,
+      "total": 32,
+      "penalties": [],
+      "place": "6="
+    }
+  ],
+  [
+    [
+      "32",
+      "Laura Grakalich"
+    ],
+    {
+      "reach": {
+        "extra": "2.992 km",
+        "flown": "2.992 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 32.112,
+        "distance": 32.112,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": null,
+      "landedMade": "2.992 km",
+      "penaltyReason": "",
+      "velocity": null,
+      "total": 32,
+      "penalties": [],
+      "place": "6="
+    }
+  ]
+]

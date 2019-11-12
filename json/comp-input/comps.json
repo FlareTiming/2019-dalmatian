@@ -1,0 +1,22 @@
+{
+  "civilId": "13660",
+  "earthMath": "Haversines",
+  "discipline": "pg",
+  "location": "Greda, Croatia",
+  "to": "2019-07-14",
+  "compName": "2019 Dalmatian XC Paragliding Open",
+  "from": "2019-07-11",
+  "utcOffset": {
+    "timeZoneMinutes": 120
+  },
+  "earth": {
+    "sphere": {
+      "radius": "6371000.0 m"
+    }
+  },
+  "give": {
+    "giveDistance": null,
+    "giveFraction": 0.005
+  },
+  "scoreBack": "300.000 s"
+}

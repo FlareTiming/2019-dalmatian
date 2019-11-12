@@ -1,0 +1,46 @@
+[
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.1903311762466692,
+        "awardedMade": "3.000000 km",
+        "awardedTask": "15.762000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.1903311762466692,
+        "awardedMade": "3.000000 km",
+        "awardedTask": "15.762000 km"
+      }
+    },
+    "pilot": [
+      "35",
+      "Giselle Giampietri"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  },
+  {
+    "awardedReach": {
+      "extra": {
+        "awardedFrac": 0.1903311762466692,
+        "awardedMade": "3.000000 km",
+        "awardedTask": "15.762000 km"
+      },
+      "flown": {
+        "awardedFrac": 0.1903311762466692,
+        "awardedMade": "3.000000 km",
+        "awardedTask": "15.762000 km"
+      }
+    },
+    "pilot": [
+      "32",
+      "Laura Grakalich"
+    ],
+    "awardedVelocity": {
+      "es": null,
+      "ss": null
+    }
+  }
+]
