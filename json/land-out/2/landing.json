@@ -8,16 +8,16 @@
       0,
       "0.0 km"
     ],
-    "sumOf": 214
+    "sumOf": 201
   },
   "bestDistance": "15.729020 km",
   "difficulty": [
     {
       "endChunk": "0.1 km",
-      "down": 3,
+      "down": 4,
       "chunk": 0,
       "startChunk": "0.0 km",
-      "frac": 0.01401869,
+      "frac": 0.01741294,
       "downers": [
         [
           "24",
@@ -28,16 +28,21 @@
           "Stjepan Zjacic"
         ],
         [
+          "18",
+          "Petros Miskos"
+        ],
+        [
           "22",
           "Sandi Krč"
         ]
       ],
-      "downward": 6,
-      "rel": 0.01401869,
-      "endAhead": "6.0 km",
+      "downward": 7,
+      "rel": 0.01741294,
+      "endAhead": "5.3 km",
       "downs": [
         "-0.564 km",
         "-0.549 km",
+        "-0.545 km",
         "-0.037 km"
       ]
     },
@@ -46,7 +51,7 @@
       "down": 3,
       "chunk": 30,
       "startChunk": "3.0 km",
-      "frac": 0.22429907,
+      "frac": 0.24129353,
       "downers": [
         [
           "32",
@@ -62,8 +67,8 @@
         ]
       ],
       "downward": 3,
-      "rel": 0.00700935,
-      "endAhead": "9.0 km",
+      "rel": 0.00746269,
+      "endAhead": "8.3 km",
       "downs": [
         "3.000 km",
         "3.000 km",
@@ -75,7 +80,7 @@
       "down": 1,
       "chunk": 106,
       "startChunk": "10.6 km",
-      "frac": 0.42523364,
+      "frac": 0.42039801,
       "downers": [
         [
           "15",
@@ -83,8 +88,8 @@
         ]
       ],
       "downward": 2,
-      "rel": 0.0046729,
-      "endAhead": "16.6 km",
+      "rel": 0.00497512,
+      "endAhead": "15.9 km",
       "downs": [
         "10.696 km"
       ]
@@ -102,14 +107,14 @@
         ]
       ],
       "downward": 1,
-      "rel": 0.00233645,
-      "endAhead": "19.8 km",
+      "rel": 0.00248756,
+      "endAhead": "19.1 km",
       "downs": [
         "13.875 km"
       ]
     }
   ],
-  "lookahead": 59,
+  "lookahead": 52,
   "minDistance": "3.000 km",
-  "landout": 8
+  "landout": 9
 }

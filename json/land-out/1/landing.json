@@ -8,7 +8,7 @@
       0,
       "0.0 km"
     ],
-    "sumOf": 229
+    "sumOf": 233
   },
   "bestDistance": "10.498202 km",
   "difficulty": [
@@ -17,7 +17,7 @@
       "down": 2,
       "chunk": 0,
       "startChunk": "0.0 km",
-      "frac": 0.01091703,
+      "frac": 0.01287554,
       "downers": [
         [
           "24",
@@ -28,12 +28,31 @@
           "Stjepan Zjacic"
         ]
       ],
-      "downward": 5,
-      "rel": 0.01091703,
-      "endAhead": "3.6 km",
+      "downward": 6,
+      "rel": 0.01287554,
+      "endAhead": "3.2 km",
       "downs": [
         "-5.935 km",
         "-5.878 km"
+      ]
+    },
+    {
+      "endChunk": "2.0 km",
+      "down": 1,
+      "chunk": 19,
+      "startChunk": "1.9 km",
+      "frac": 0.19098712,
+      "downers": [
+        [
+          "18",
+          "Petros Miskos"
+        ]
+      ],
+      "downward": 5,
+      "rel": 0.01072961,
+      "endAhead": "5.1 km",
+      "downs": [
+        "1.982 km"
       ]
     },
     {
@@ -41,7 +60,7 @@
       "down": 1,
       "chunk": 24,
       "startChunk": "2.4 km",
-      "frac": 0.22270742,
+      "frac": 0.24463519,
       "downers": [
         [
           "22",
@@ -49,8 +68,8 @@
         ]
       ],
       "downward": 5,
-      "rel": 0.01091703,
-      "endAhead": "6.0 km",
+      "rel": 0.01072961,
+      "endAhead": "5.6 km",
       "downs": [
         "2.488 km"
       ]
@@ -60,7 +79,7 @@
       "down": 2,
       "chunk": 30,
       "startChunk": "3.0 km",
-      "frac": 0.27510917,
+      "frac": 0.29613734,
       "downers": [
         [
           "32",
@@ -72,8 +91,8 @@
         ]
       ],
       "downward": 4,
-      "rel": 0.00873362,
-      "endAhead": "6.6 km",
+      "rel": 0.00858369,
+      "endAhead": "6.2 km",
       "downs": [
         "3.000 km",
         "3.000 km"
@@ -84,7 +103,7 @@
       "down": 1,
       "chunk": 43,
       "startChunk": "4.3 km",
-      "frac": 0.34716157,
+      "frac": 0.3583691,
       "downers": [
         [
           "10",
@@ -92,8 +111,8 @@
         ]
       ],
       "downward": 3,
-      "rel": 0.00655022,
-      "endAhead": "7.9 km",
+      "rel": 0.00643777,
+      "endAhead": "7.5 km",
       "downs": [
         "4.364 km"
       ]
@@ -103,16 +122,16 @@
       "down": 1,
       "chunk": 50,
       "startChunk": "5.0 km",
-      "frac": 0.37991266,
+      "frac": 0.38841202,
       "downers": [
         [
           "11",
           "Jerko Odžak"
         ]
       ],
-      "downward": 3,
-      "rel": 0.00655022,
-      "endAhead": "8.6 km",
+      "downward": 2,
+      "rel": 0.00429185,
+      "endAhead": "8.2 km",
       "downs": [
         "5.014 km"
       ]
@@ -122,7 +141,7 @@
       "down": 1,
       "chunk": 71,
       "startChunk": "7.1 km",
-      "frac": 0.47161572,
+      "frac": 0.472103,
       "downers": [
         [
           "19",
@@ -130,8 +149,8 @@
         ]
       ],
       "downward": 2,
-      "rel": 0.00436681,
-      "endAhead": "10.7 km",
+      "rel": 0.00429185,
+      "endAhead": "10.3 km",
       "downs": [
         "7.192 km"
       ]
@@ -149,14 +168,14 @@
         ]
       ],
       "downward": 1,
-      "rel": 0.00218341,
-      "endAhead": "12.0 km",
+      "rel": 0.00214592,
+      "endAhead": "11.6 km",
       "downs": [
         "8.434 km"
       ]
     }
   ],
-  "lookahead": 35,
+  "lookahead": 31,
   "minDistance": "3.000 km",
-  "landout": 9
+  "landout": 10
 }

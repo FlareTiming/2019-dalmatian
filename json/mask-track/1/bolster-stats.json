@@ -1,12 +1,12 @@
 {
   "reach": {
     "max": "10.498202 km",
-    "mean": "3.238822 km",
-    "stdDev": "4.010741 km"
+    "mean": "3.113160 km",
+    "stdDev": "3.823553 km"
   },
   "bolster": {
     "max": "10.498202 km",
-    "mean": "4.897979 km",
-    "stdDev": "2.562164 km"
+    "mean": "4.708181 km",
+    "stdDev": "2.496483 km"
   }
 }

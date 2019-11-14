@@ -145,6 +145,42 @@
   ],
   [
     [
+      "18",
+      "Petros Miskos"
+    ],
+    {
+      "reach": {
+        "extra": "-0.037 km",
+        "flown": "-0.037 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 44.169,
+        "distance": 44.169,
+        "leading": 0,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "0.000 m",
+      "landedMade": "-0.545 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2019-07-12T11:30:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2019-07-12T12:25:25.865478746644Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 44,
+      "penalties": [],
+      "place": "5="
+    }
+  ],
+  [
+    [
       "22",
       "Sandi Krč"
     ],

@@ -181,6 +181,42 @@
   ],
   [
     [
+      "18",
+      "Petros Miskos"
+    ],
+    {
+      "reach": {
+        "extra": "1.982 km",
+        "flown": "1.982 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 32.112,
+        "distance": 32.112,
+        "leading": 1.8,
+        "effort": 0,
+        "arrival": 0
+      },
+      "stoppedAlt": "0.000 m",
+      "landedMade": "1.982 km",
+      "penaltyReason": "",
+      "velocity": {
+        "gs": "2019-07-11T12:30:00Z",
+        "ssVelocity": null,
+        "ssElapsed": null,
+        "gsElapsed": null,
+        "es": null,
+        "ss": "2019-07-11T12:38:43.181546694556Z",
+        "ssDistance": null,
+        "gsVelocity": null
+      },
+      "total": 34,
+      "penalties": [],
+      "place": "6"
+    }
+  ],
+  [
+    [
       "24",
       "Slava Jelić"
     ],
@@ -212,7 +248,7 @@
       },
       "total": 32,
       "penalties": [],
-      "place": "6="
+      "place": "7="
     }
   ],
   [
@@ -248,7 +284,7 @@
       },
       "total": 32,
       "penalties": [],
-      "place": "6="
+      "place": "7="
     }
   ],
   [
@@ -275,7 +311,7 @@
       "velocity": null,
       "total": 32,
       "penalties": [],
-      "place": "6="
+      "place": "7="
     }
   ],
   [
@@ -302,7 +338,7 @@
       "velocity": null,
       "total": 32,
       "penalties": [],
-      "place": "6="
+      "place": "7="
     }
   ]
 ]
