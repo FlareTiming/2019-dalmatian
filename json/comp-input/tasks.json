@@ -4,51 +4,57 @@
     "zones": {
       "raw": [
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": 43.7947,
           "zoneName": "STARTS",
           "lng": 16.49117,
-          "give": "995.0 m",
           "alt": "1175.000 m"
         },
         {
+          "giveIn": "2985.0 m",
           "radius": "3000.0 m",
+          "giveOut": "3015.0 m",
           "lat": 43.85725,
           "zoneName": "OTISIC",
           "lng": 16.45205,
-          "give": "3015.0 m",
           "alt": "426.000 m"
         },
         {
+          "giveIn": "7960.0 m",
           "radius": "8000.0 m",
+          "giveOut": "8040.0 m",
           "lat": 43.84618,
           "zoneName": "VRHJEL",
           "lng": 16.62311,
-          "give": "8040.0 m",
           "alt": "1111.000 m"
         },
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": 43.7947,
           "zoneName": "STARTS",
           "lng": 16.49117,
-          "give": "1005.0 m",
           "alt": "1175.000 m"
         },
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": 43.79605,
           "zoneName": "BRANAP",
           "lng": 16.59569,
-          "give": "1005.0 m",
           "alt": "340.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 43.75677,
           "zoneName": "HRVACE",
           "lng": 16.62018,
-          "give": "402.0 m",
           "alt": "339.000 m"
         }
       ],
@@ -138,51 +144,57 @@
     "zones": {
       "raw": [
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": 43.82973,
           "zoneName": "STARTG",
           "lng": 16.64242,
-          "give": "995.0 m",
           "alt": "849.000 m"
         },
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": 43.81055,
           "zoneName": "KODZOM",
           "lng": 16.67643,
-          "give": "1005.0 m",
           "alt": "889.000 m"
         },
         {
+          "giveIn": "796.0 m",
           "radius": "800.0 m",
+          "giveOut": "804.0 m",
           "lat": 43.82291,
           "zoneName": "VODOSP",
           "lng": 16.61629,
-          "give": "804.0 m",
           "alt": "567.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 43.81932,
           "zoneName": "SLETIS",
           "lng": 16.63998,
-          "give": "402.0 m",
           "alt": "528.000 m"
         },
         {
+          "giveIn": "398.0 m",
           "radius": "400.0 m",
+          "giveOut": "402.0 m",
           "lat": 43.7671,
           "zoneName": "CACIJI",
           "lng": 16.68169,
-          "give": "402.0 m",
           "alt": "450.000 m"
         },
         {
+          "giveIn": "995.0 m",
           "radius": "1000.0 m",
+          "giveOut": "1005.0 m",
           "lat": 43.75677,
           "zoneName": "HRVACE",
           "lng": 16.62018,
-          "give": "1005.0 m",
           "alt": "339.000 m"
         }
       ],

@@ -10,7 +10,7 @@
     ],
     "sumOf": 201
   },
-  "bestDistance": "15.729020 km",
+  "bestDistance": "15.728733 km",
   "difficulty": [
     {
       "endChunk": "0.1 km",
@@ -43,7 +43,7 @@
         "-0.564 km",
         "-0.549 km",
         "-0.545 km",
-        "-0.037 km"
+        "-0.038 km"
       ]
     },
     {
@@ -91,7 +91,7 @@
       "rel": 0.00497512,
       "endAhead": "15.9 km",
       "downs": [
-        "10.696 km"
+        "10.695 km"
       ]
     },
     {

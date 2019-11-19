@@ -11,8 +11,8 @@
       },
       "breakdown": {
         "time": 50.2,
-        "reach": 231.58,
-        "distance": 231.58,
+        "reach": 231.586,
+        "distance": 231.586,
         "leading": 15.4,
         "effort": 0,
         "arrival": 0
@@ -25,8 +25,8 @@
         "ssVelocity": "13.41 km / h",
         "ssElapsed": "1.172647 h",
         "gsElapsed": "2.014817 h",
-        "es": "2019-07-12T13:30:53.340283333959Z",
-        "ss": "2019-07-12T12:20:31.811427052006Z",
+        "es": "2019-07-12T13:30:53.340303772858Z",
+        "ss": "2019-07-12T12:20:31.81138377597Z",
         "ssDistance": "15.729 km",
         "gsVelocity": "7.80 km / h"
       },
@@ -47,8 +47,8 @@
       },
       "breakdown": {
         "time": 0,
-        "reach": 205.123,
-        "distance": 205.123,
+        "reach": 205.128,
+        "distance": 205.128,
         "leading": 27,
         "effort": 0,
         "arrival": 0
@@ -62,7 +62,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2019-07-12T12:20:57.810274234821Z",
+        "ss": "2019-07-12T12:20:57.810263596024Z",
         "ssDistance": null,
         "gsVelocity": null
       },
@@ -78,19 +78,19 @@
     ],
     {
       "reach": {
-        "extra": "10.765 km",
-        "flown": "10.765 km"
+        "extra": "10.766 km",
+        "flown": "10.766 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 158.495,
-        "distance": 158.495,
+        "reach": 158.512,
+        "distance": 158.512,
         "leading": 14.4,
         "effort": 0,
         "arrival": 0
       },
       "stoppedAlt": "339.000 m",
-      "landedMade": "10.696 km",
+      "landedMade": "10.695 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2019-07-12T11:30:00Z",
@@ -98,7 +98,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2019-07-12T12:20:37.778234223323Z",
+        "ss": "2019-07-12T12:20:37.778231305401Z",
         "ssDistance": null,
         "gsVelocity": null
       },
@@ -114,13 +114,13 @@
     ],
     {
       "reach": {
-        "extra": "3.067 km",
-        "flown": "3.067 km"
+        "extra": "3.068 km",
+        "flown": "3.068 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 45.156,
-        "distance": 45.156,
+        "reach": 45.169,
+        "distance": 45.169,
         "leading": 0,
         "effort": 0,
         "arrival": 0
@@ -134,7 +134,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2019-07-12T12:57:22.944937200765Z",
+        "ss": "2019-07-12T12:57:22.94489829199Z",
         "ssDistance": null,
         "gsVelocity": null
       },
@@ -150,13 +150,13 @@
     ],
     {
       "reach": {
-        "extra": "-0.037 km",
-        "flown": "-0.037 km"
+        "extra": "-0.036 km",
+        "flown": "-0.036 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 44.169,
-        "distance": 44.169,
+        "reach": 44.171,
+        "distance": 44.171,
         "leading": 0,
         "effort": 0,
         "arrival": 0
@@ -170,7 +170,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2019-07-12T12:25:25.865478746644Z",
+        "ss": "2019-07-12T12:25:25.865435903856Z",
         "ssDistance": null,
         "gsVelocity": null
       },
@@ -191,14 +191,14 @@
       },
       "breakdown": {
         "time": 0,
-        "reach": 44.169,
-        "distance": 44.169,
+        "reach": 44.171,
+        "distance": 44.171,
         "leading": 0,
         "effort": 0,
         "arrival": 0
       },
       "stoppedAlt": "436.000 m",
-      "landedMade": "-0.037 km",
+      "landedMade": "-0.038 km",
       "penaltyReason": "",
       "velocity": {
         "gs": "2019-07-12T11:30:00Z",
@@ -206,7 +206,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2019-07-12T12:24:41.828253277531Z",
+        "ss": "2019-07-12T12:24:41.828220044633Z",
         "ssDistance": null,
         "gsVelocity": null
       },
@@ -227,8 +227,8 @@
       },
       "breakdown": {
         "time": 0,
-        "reach": 44.169,
-        "distance": 44.169,
+        "reach": 44.171,
+        "distance": 44.171,
         "leading": 0,
         "effort": 0,
         "arrival": 0
@@ -242,7 +242,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2019-07-12T13:48:52.31253605009Z",
+        "ss": "2019-07-12T13:48:52.312428808885Z",
         "ssDistance": null,
         "gsVelocity": null
       },
@@ -258,13 +258,13 @@
     ],
     {
       "reach": {
-        "extra": "0.290 km",
-        "flown": "0.290 km"
+        "extra": "0.291 km",
+        "flown": "0.291 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 44.169,
-        "distance": 44.169,
+        "reach": 44.171,
+        "distance": 44.171,
         "leading": 0,
         "effort": 0,
         "arrival": 0
@@ -278,7 +278,7 @@
         "ssElapsed": null,
         "gsElapsed": null,
         "es": null,
-        "ss": "2019-07-12T13:02:32.487867917314Z",
+        "ss": "2019-07-12T13:02:32.487984529221Z",
         "ssDistance": null,
         "gsVelocity": null
       },
@@ -299,8 +299,8 @@
       },
       "breakdown": {
         "time": 0,
-        "reach": 44.169,
-        "distance": 44.169,
+        "reach": 44.171,
+        "distance": 44.171,
         "leading": 0,
         "effort": 0,
         "arrival": 0
@@ -326,8 +326,8 @@
       },
       "breakdown": {
         "time": 0,
-        "reach": 44.169,
-        "distance": 44.169,
+        "reach": 44.171,
+        "distance": 44.171,
         "leading": 0,
         "effort": 0,
         "arrival": 0
