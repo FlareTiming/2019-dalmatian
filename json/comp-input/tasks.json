@@ -125,19 +125,27 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": false
     },
     "startGates": [
       "2019-07-11T12:30:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
         "close": "2019-07-11T18:00:00Z",
         "open": "2019-07-11T12:30:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   },
   {
     "taskName": "Task 2",
@@ -265,12 +273,15 @@
     ],
     "stopped": null,
     "taskTweak": {
-      "arrivalWeightScaling": null,
-      "leadingWeightScaling": null
+      "arrivalTime": false,
+      "leadingWeightScaling": null,
+      "leadingAreaDistanceSquared": false,
+      "arrivalRank": false
     },
     "startGates": [
       "2019-07-12T11:30:00Z"
     ],
+    "penalsAuto": [],
     "penals": [],
     "zoneTimes": [
       {
@@ -297,6 +308,11 @@
         "close": "2019-07-12T18:00:00Z",
         "open": "2019-07-12T11:30:00Z"
       }
-    ]
+    ],
+    "earlyStart": {
+      "tooEarlyReset": 0,
+      "earlyPenalty": "0 s",
+      "earliest": "0 s"
+    }
   }
 ]

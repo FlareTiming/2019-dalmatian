@@ -40,10 +40,10 @@
       "rel": 0.01741294,
       "endAhead": "5.3 km",
       "downs": [
-        "-0.564 km",
-        "-0.549 km",
-        "-0.545 km",
-        "-0.038 km"
+        "-0.537 km",
+        "-0.521 km",
+        "-0.517 km",
+        "-0.011 km"
       ]
     },
     {
@@ -54,12 +54,12 @@
       "frac": 0.24129353,
       "downers": [
         [
-          "32",
-          "Laura Grakalich"
-        ],
-        [
           "35",
           "Giselle Giampietri"
+        ],
+        [
+          "32",
+          "Laura Grakalich"
         ],
         [
           "11",
@@ -72,15 +72,15 @@
       "downs": [
         "3.000 km",
         "3.000 km",
-        "3.064 km"
+        "3.082 km"
       ]
     },
     {
-      "endChunk": "10.7 km",
+      "endChunk": "10.8 km",
       "down": 1,
-      "chunk": 106,
-      "startChunk": "10.6 km",
-      "frac": 0.42039801,
+      "chunk": 107,
+      "startChunk": "10.7 km",
+      "frac": 0.42288557,
       "downers": [
         [
           "15",
@@ -89,9 +89,9 @@
       ],
       "downward": 2,
       "rel": 0.00497512,
-      "endAhead": "15.9 km",
+      "endAhead": "16.0 km",
       "downs": [
-        "10.695 km"
+        "10.704 km"
       ]
     },
     {
@@ -110,7 +110,7 @@
       "rel": 0.00248756,
       "endAhead": "19.1 km",
       "downs": [
-        "13.875 km"
+        "13.880 km"
       ]
     }
   ],

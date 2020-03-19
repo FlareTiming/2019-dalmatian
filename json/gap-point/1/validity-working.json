@@ -4,8 +4,8 @@
     "nominalDistance": "20.0 km",
     "nominalTime": "0.666667 h",
     "reachMax": {
-      "extra": "10.497232 km",
-      "flown": "10.497232 km"
+      "extra": "10.513232 km",
+      "flown": "10.513232 km"
     },
     "gsBestTime": null
   },
@@ -20,10 +20,10 @@
     "nominalGoal": 0.2,
     "nominalDistance": "20.0 km",
     "minimumDistance": "3.000 km",
-    "sum": "17.1 km",
+    "sum": "17.3 km",
     "reachMax": {
-      "extra": "10.497232 km",
-      "flown": "10.497232 km"
+      "extra": "10.513232 km",
+      "flown": "10.513232 km"
     }
   },
   "stop": null

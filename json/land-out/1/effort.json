@@ -6,7 +6,7 @@
     ],
     {
       "frac": 1,
-      "effort": "8.433000 km"
+      "effort": "8.449000 km"
     }
   ],
   [
@@ -15,8 +15,8 @@
       "Rafal Cypcar"
     ],
     {
-      "frac": 0.944206,
-      "effort": "7.191000 km"
+      "frac": 0.9497908,
+      "effort": "7.279000 km"
     }
   ],
   [
@@ -25,8 +25,8 @@
       "Jerko Odžak"
     ],
     {
-      "frac": 0.77682404,
-      "effort": "5.013000 km"
+      "frac": 0.77405858,
+      "effort": "5.029000 km"
     }
   ],
   [
@@ -35,18 +35,8 @@
       "Igor Eržen"
     ],
     {
-      "frac": 0.7167382,
-      "effort": "4.364000 km"
-    }
-  ],
-  [
-    [
-      "32",
-      "Laura Grakalich"
-    ],
-    {
-      "frac": 0.59227468,
-      "effort": "3.000000 km"
+      "frac": 0.72384938,
+      "effort": "4.449000 km"
     }
   ],
   [
@@ -55,7 +45,17 @@
       "Giselle Giampietri"
     ],
     {
-      "frac": 0.59227468,
+      "frac": 0.58995816,
+      "effort": "3.000000 km"
+    }
+  ],
+  [
+    [
+      "32",
+      "Laura Grakalich"
+    ],
+    {
+      "frac": 0.58995816,
       "effort": "3.000000 km"
     }
   ],
@@ -65,8 +65,8 @@
       "Sandi Krč"
     ],
     {
-      "frac": 0.48927038,
-      "effort": "2.486000 km"
+      "frac": 0.50627616,
+      "effort": "2.590000 km"
     }
   ],
   [
@@ -75,8 +75,8 @@
       "Petros Miskos"
     ],
     {
-      "frac": 0.38197424,
-      "effort": "1.985000 km"
+      "frac": 0.40167364,
+      "effort": "2.090000 km"
     }
   ],
   [
@@ -85,8 +85,8 @@
       "Slava Jelić"
     ],
     {
-      "frac": 0.02575108,
-      "effort": "-5.936000 km"
+      "frac": 0.0251046,
+      "effort": "-5.832000 km"
     }
   ],
   [
@@ -95,8 +95,8 @@
       "Stjepan Zjacic"
     ],
     {
-      "frac": 0.02575108,
-      "effort": "-5.878000 km"
+      "frac": 0.0251046,
+      "effort": "-5.775000 km"
     }
   ]
 ]
