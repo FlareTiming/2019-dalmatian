@@ -96,6 +96,7 @@ for t in {1..3}
         for p in {10,11,15,18,19,22,24,26,32,35}
             do
             curl -X GET -H "Accept:application/json" http://localhost:3000/cross-zone/track-flying-section/$t/$p | jq > json/cross-zone/track-flying-section/$t/$p.json
+            curl -X GET -H "Accept:application/json" http://localhost:3000/cross-zone/$t/$p | jq > json/cross-zone/$t/$p.json
             curl -X GET -H "Accept:application/json" http://localhost:3000/tag-zone/$t/$p | jq > json/tag-zone/$t/$p.json
             curl -X GET -H "Accept:application/json" http://localhost:3000/peg-frame/track-scored-section/$t/$p | jq > json/peg-frame/track-scored-section/$t/$p.json
             curl -X GET -H "Accept:application/json" http://localhost:3000/pilot-track/$t/$p | jq > json/pilot-track/$t/$p.json
