@@ -25,7 +25,11 @@
       "landedMade": "15.729 km",
       "subtotal": 300.896,
       "penaltyReason": "",
-      "penaltiesJump": [],
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "velocity": {
         "gs": "2019-07-12T11:30:00Z",
         "ssVelocity": "13.42 km / h",
@@ -37,7 +41,11 @@
         "gsVelocity": "7.80 km / h"
       },
       "total": 300.896,
-      "penalties": [],
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "place": "1"
     }
   ],
@@ -67,7 +75,11 @@
       "landedMade": "13.880 km",
       "subtotal": 232.405,
       "penaltyReason": "",
-      "penaltiesJump": [],
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "velocity": {
         "gs": "2019-07-12T11:30:00Z",
         "ssVelocity": null,
@@ -79,7 +91,11 @@
         "gsVelocity": null
       },
       "total": 232.405,
-      "penalties": [],
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "place": "2"
     }
   ],
@@ -109,7 +125,11 @@
       "landedMade": "10.704 km",
       "subtotal": 169.095,
       "penaltyReason": "",
-      "penaltiesJump": [],
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "velocity": {
         "gs": "2019-07-12T11:30:00Z",
         "ssVelocity": null,
@@ -121,7 +141,11 @@
         "gsVelocity": null
       },
       "total": 169.095,
-      "penalties": [],
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "place": "3"
     }
   ],
@@ -151,7 +175,11 @@
       "landedMade": "3.082 km",
       "subtotal": 45.445,
       "penaltyReason": "",
-      "penaltiesJump": [],
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "velocity": {
         "gs": "2019-07-12T11:30:00Z",
         "ssVelocity": null,
@@ -163,7 +191,11 @@
         "gsVelocity": null
       },
       "total": 45.445,
-      "penalties": [],
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "place": "4"
     }
   ],
@@ -193,7 +225,11 @@
       "landedMade": "-0.517 km",
       "subtotal": 44.211,
       "penaltyReason": "",
-      "penaltiesJump": [],
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "velocity": {
         "gs": "2019-07-12T11:30:00Z",
         "ssVelocity": null,
@@ -205,7 +241,11 @@
         "gsVelocity": null
       },
       "total": 44.211,
-      "penalties": [],
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "place": "5="
     }
   ],
@@ -235,7 +275,11 @@
       "landedMade": "-0.011 km",
       "subtotal": 44.211,
       "penaltyReason": "",
-      "penaltiesJump": [],
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "velocity": {
         "gs": "2019-07-12T11:30:00Z",
         "ssVelocity": null,
@@ -247,7 +291,11 @@
         "gsVelocity": null
       },
       "total": 44.211,
-      "penalties": [],
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "place": "5="
     }
   ],
@@ -277,7 +325,11 @@
       "landedMade": "-0.537 km",
       "subtotal": 44.211,
       "penaltyReason": "",
-      "penaltiesJump": [],
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "velocity": {
         "gs": "2019-07-12T11:30:00Z",
         "ssVelocity": null,
@@ -289,7 +341,11 @@
         "gsVelocity": null
       },
       "total": 44.211,
-      "penalties": [],
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "place": "5="
     }
   ],
@@ -319,7 +375,11 @@
       "landedMade": "-0.521 km",
       "subtotal": 44.211,
       "penaltyReason": "",
-      "penaltiesJump": [],
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "velocity": {
         "gs": "2019-07-12T11:30:00Z",
         "ssVelocity": null,
@@ -331,7 +391,11 @@
         "gsVelocity": null
       },
       "total": 44.211,
-      "penalties": [],
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "place": "5="
     }
   ],
@@ -361,10 +425,18 @@
       "landedMade": "2.994 km",
       "subtotal": 44.211,
       "penaltyReason": "",
-      "penaltiesJump": [],
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "velocity": null,
       "total": 44.211,
-      "penalties": [],
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "place": "5="
     }
   ],
@@ -394,10 +466,18 @@
       "landedMade": "2.994 km",
       "subtotal": 44.211,
       "penaltyReason": "",
-      "penaltiesJump": [],
+      "penaltiesJump": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "velocity": null,
       "total": 44.211,
-      "penalties": [],
+      "penalties": {
+        "adds": [],
+        "resets": [],
+        "muls": []
+      },
       "place": "5="
     }
   ]
