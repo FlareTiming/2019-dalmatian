@@ -20,20 +20,20 @@
       "frac": 0.01245117,
       "downers": [
         [
-          "24",
-          "Slava Jelić"
-        ],
-        [
           "26",
           "Stjepan Zjacic"
+        ],
+        [
+          "24",
+          "Slava Jelić"
         ]
       ],
       "downward": 6,
       "rel": 0.0125523,
       "endAhead": "3.3 km",
       "downs": [
-        "-5.832 km",
-        "-5.775 km"
+        "-1.286 km",
+        "-0.953 km"
       ]
     },
     {
@@ -41,18 +41,18 @@
       "down": 1,
       "chunk": 20,
       "startChunk": "2.0 km",
-      "frac": 0.20092773,
+      "frac": 0.19458008,
       "downers": [
         [
           "18",
           "Petros Miskos"
         ]
       ],
-      "downward": 6,
-      "rel": 0.0125523,
+      "downward": 5,
+      "rel": 0.01046025,
       "endAhead": "5.3 km",
       "downs": [
-        "2.090 km"
+        "2.078 km"
       ]
     },
     {
@@ -60,18 +60,18 @@
       "down": 1,
       "chunk": 25,
       "startChunk": "2.5 km",
-      "frac": 0.25317383,
+      "frac": 0.23632812,
       "downers": [
         [
           "22",
           "Sandi Krč"
         ]
       ],
-      "downward": 5,
-      "rel": 0.01046025,
+      "downward": 4,
+      "rel": 0.0083682,
       "endAhead": "5.8 km",
       "downs": [
-        "2.590 km"
+        "2.585 km"
       ]
     },
     {
@@ -79,7 +79,7 @@
       "down": 2,
       "chunk": 30,
       "startChunk": "3.0 km",
-      "frac": 0.29492188,
+      "frac": 0.26782227,
       "downers": [
         [
           "35",
@@ -90,8 +90,8 @@
           "Laura Grakalich"
         ]
       ],
-      "downward": 4,
-      "rel": 0.0083682,
+      "downward": 3,
+      "rel": 0.00627615,
       "endAhead": "6.3 km",
       "downs": [
         "3.000 km",
@@ -99,11 +99,11 @@
       ]
     },
     {
-      "endChunk": "4.5 km",
+      "endChunk": "4.6 km",
       "down": 1,
-      "chunk": 44,
-      "startChunk": "4.4 km",
-      "frac": 0.36181641,
+      "chunk": 45,
+      "startChunk": "4.5 km",
+      "frac": 0.32421875,
       "downers": [
         [
           "10",
@@ -112,17 +112,17 @@
       ],
       "downward": 3,
       "rel": 0.00627615,
-      "endAhead": "7.7 km",
+      "endAhead": "7.8 km",
       "downs": [
-        "4.449 km"
+        "4.574 km"
       ]
     },
     {
-      "endChunk": "5.1 km",
+      "endChunk": "6.8 km",
       "down": 1,
-      "chunk": 50,
-      "startChunk": "5.0 km",
-      "frac": 0.38696289,
+      "chunk": 67,
+      "startChunk": "6.7 km",
+      "frac": 0.41625977,
       "downers": [
         [
           "11",
@@ -131,17 +131,17 @@
       ],
       "downward": 2,
       "rel": 0.0041841,
-      "endAhead": "8.3 km",
+      "endAhead": "10.0 km",
       "downs": [
-        "5.029 km"
+        "6.722 km"
       ]
     },
     {
-      "endChunk": "7.3 km",
+      "endChunk": "7.6 km",
       "down": 1,
-      "chunk": 72,
-      "startChunk": "7.2 km",
-      "frac": 0.47485352,
+      "chunk": 75,
+      "startChunk": "7.5 km",
+      "frac": 0.43725586,
       "downers": [
         [
           "19",
@@ -150,16 +150,16 @@
       ],
       "downward": 2,
       "rel": 0.0041841,
-      "endAhead": "10.5 km",
+      "endAhead": "10.8 km",
       "downs": [
-        "7.279 km"
+        "7.511 km"
       ]
     },
     {
-      "endChunk": "8.5 km",
+      "endChunk": "10.6 km",
       "down": 1,
-      "chunk": 84,
-      "startChunk": "8.4 km",
+      "chunk": 105,
+      "startChunk": "10.5 km",
       "frac": 0.5,
       "downers": [
         [
@@ -169,9 +169,9 @@
       ],
       "downward": 1,
       "rel": 0.00209205,
-      "endAhead": "11.7 km",
+      "endAhead": "13.8 km",
       "downs": [
-        "8.449 km"
+        "10.513 km"
       ]
     }
   ],
