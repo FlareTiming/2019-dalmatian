@@ -18,6 +18,7 @@ curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/validit
 curl -X GET -H "Accept:application/json" http://localhost:3000/gap-point/pilots-status | jq > json/gap-point/pilots-status.json
 
 mkdir json/fs-score
+mkdir json/as-score
 curl -X GET -H "Accept:application/json" http://localhost:3000/fs-score/validity | jq > json/fs-score/validity.json
 
 mkdir json/stats
