@@ -1,34 +1,70 @@
 [
   [
     [
+      "10",
+      "Igor Eržen"
+    ],
+    {
+      "timeElapsed": "2.014720 h",
+      "reach": {
+        "extra": "16.749921 km",
+        "flown": "16.749921 km"
+      },
+      "breakdown": {
+        "time": 56.6,
+        "reach": 0.5,
+        "distance": 261.329,
+        "leading": 17.5,
+        "effort": 0.5,
+        "arrival": 0
+      },
+      "leadingCoef": 1.05433653,
+      "landedMade": null,
+      "es": "2019-07-12T13:30:53Z",
+      "total": 335.435,
+      "ss": "2019-07-12T11:30:00Z",
+      "leadingArea": null,
+      "place": "1",
+      "fractions": {
+        "time": 1,
+        "reach": 1,
+        "distance": 1,
+        "leading": 0.57405396,
+        "effort": 1,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
       "19",
       "Rafal Cypcar"
     ],
     {
       "timeElapsed": null,
       "reach": {
-        "extra": "14.950525 km",
-        "flown": "14.950525 km"
+        "extra": "14.950545 km",
+        "flown": "14.950545 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 0.5,
-        "distance": 168.996,
-        "leading": 16.8,
+        "reach": 0.446,
+        "distance": 233.256,
+        "leading": 30.5,
         "effort": 0.5,
         "arrival": 0
       },
-      "leadingCoef": 0.78411925,
+      "leadingCoef": 0.80492845,
       "landedMade": null,
       "es": null,
-      "total": 185.756,
+      "total": 263.737,
       "ss": "2019-07-12T11:30:00Z",
       "leadingArea": null,
-      "place": "1",
+      "place": "2",
       "fractions": {
         "time": 0,
-        "reach": 1,
-        "distance": 1,
+        "reach": 0.8925741,
+        "distance": 0.8925741,
         "leading": 1,
         "effort": 1,
         "arrival": 0
@@ -43,30 +79,66 @@
     {
       "timeElapsed": null,
       "reach": {
-        "extra": "11.770130 km",
-        "flown": "11.770130 km"
+        "extra": "11.770151 km",
+        "flown": "11.770151 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 0.394,
-        "distance": 133.046,
-        "leading": 8.9,
-        "effort": 0.445,
+        "reach": 0.351,
+        "distance": 183.636,
+        "leading": 16.3,
+        "effort": 0.454,
         "arrival": 0
       },
-      "leadingCoef": 1.06779654,
+      "leadingCoef": 1.08949173,
       "landedMade": null,
       "es": null,
-      "total": 141.959,
+      "total": 199.941,
       "ss": "2019-07-12T11:30:00Z",
       "leadingArea": null,
-      "place": "2",
+      "place": "3",
       "fractions": {
         "time": 0,
-        "reach": 0.78727204,
-        "distance": 0.78727204,
-        "leading": 0.53180978,
-        "effort": 0.890625,
+        "reach": 0.70269889,
+        "distance": 0.70269889,
+        "leading": 0.53491377,
+        "effort": 0.90771484,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "11",
+      "Jerko Odžak"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "4.068111 km",
+        "flown": "4.068111 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0.121,
+        "distance": 63.47,
+        "leading": 0,
+        "effort": 0.335,
+        "arrival": 0
+      },
+      "leadingCoef": 2.05439975,
+      "landedMade": null,
+      "es": null,
+      "total": 63.47,
+      "ss": "2019-07-12T11:30:00Z",
+      "leadingArea": null,
+      "place": "4",
+      "fractions": {
+        "time": 0,
+        "reach": 0.24287343,
+        "distance": 0.24287343,
+        "leading": 0,
+        "effort": 0.66967773,
         "arrival": 0
       }
     }
@@ -80,29 +152,101 @@
       "timeElapsed": null,
       "reach": {
         "extra": "3.000000 km",
-        "flown": "0.989776 km"
+        "flown": "0.993740 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 0.033,
-        "distance": 33.911,
+        "reach": 0.03,
+        "distance": 46.805,
         "leading": 0,
-        "effort": 0.152,
+        "effort": 0.32,
         "arrival": 0
       },
-      "leadingCoef": 1.8476528,
+      "leadingCoef": 1.8193574,
       "landedMade": null,
       "es": null,
-      "total": 33.911,
+      "total": 46.805,
       "ss": "2019-07-12T11:30:00Z",
       "leadingArea": null,
-      "place": "3",
+      "place": "5",
       "fractions": {
         "time": 0,
-        "reach": 0.06620344,
-        "distance": 0.20066185,
+        "reach": 0.05932805,
+        "distance": 0.17910532,
         "leading": 0,
-        "effort": 0.30419922,
+        "effort": 0.64013672,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "22",
+      "Sandi Krč"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "3.000000 km",
+        "flown": "2.203546 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0.066,
+        "distance": 46.805,
+        "leading": 0,
+        "effort": 0.32,
+        "arrival": 0
+      },
+      "leadingCoef": 1.83935961,
+      "landedMade": null,
+      "es": null,
+      "total": 46.805,
+      "ss": "2019-07-12T11:30:00Z",
+      "leadingArea": null,
+      "place": "5",
+      "fractions": {
+        "time": 0,
+        "reach": 0.13155561,
+        "distance": 0.17910532,
+        "leading": 0,
+        "effort": 0.64013672,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "24",
+      "Slava Jelić"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "3.000000 km",
+        "flown": "1.196537 km"
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0.036,
+        "distance": 46.805,
+        "leading": 0,
+        "effort": 0.32,
+        "arrival": 0
+      },
+      "leadingCoef": 3.0190798,
+      "landedMade": null,
+      "es": null,
+      "total": 46.805,
+      "ss": "2019-07-12T11:30:00Z",
+      "leadingArea": null,
+      "place": "5",
+      "fractions": {
+        "time": 0,
+        "reach": 0.0714354,
+        "distance": 0.17910532,
+        "leading": 0,
+        "effort": 0.64013672,
         "arrival": 0
       }
     }
@@ -116,29 +260,101 @@
       "timeElapsed": null,
       "reach": {
         "extra": "3.000000 km",
-        "flown": "1.289136 km"
+        "flown": "1.289157 km"
       },
       "breakdown": {
         "time": 0,
-        "reach": 0.043,
-        "distance": 33.911,
+        "reach": 0.038,
+        "distance": 46.805,
         "leading": 0,
-        "effort": 0.152,
+        "effort": 0.32,
         "arrival": 0
       },
-      "leadingCoef": 2.1299331,
+      "leadingCoef": 2.10163382,
       "landedMade": null,
       "es": null,
-      "total": 33.911,
+      "total": 46.805,
       "ss": "2019-07-12T11:30:00Z",
       "leadingArea": null,
-      "place": "3",
+      "place": "5",
       "fractions": {
         "time": 0,
-        "reach": 0.08622683,
-        "distance": 0.20066185,
+        "reach": 0.07696497,
+        "distance": 0.17910532,
         "leading": 0,
-        "effort": 0.30419922,
+        "effort": 0.64013672,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "35",
+      "Giselle Giampietri"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "3.000000 km",
+        "flown": null
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 46.805,
+        "leading": 0,
+        "effort": 0.32,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": null,
+      "es": null,
+      "total": 46.805,
+      "ss": null,
+      "leadingArea": null,
+      "place": "5",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.17910532,
+        "leading": 0,
+        "effort": 0.64013672,
+        "arrival": 0
+      }
+    }
+  ],
+  [
+    [
+      "32",
+      "Laura Grakalich"
+    ],
+    {
+      "timeElapsed": null,
+      "reach": {
+        "extra": "3.000000 km",
+        "flown": null
+      },
+      "breakdown": {
+        "time": 0,
+        "reach": 0,
+        "distance": 46.805,
+        "leading": 0,
+        "effort": 0.32,
+        "arrival": 0
+      },
+      "leadingCoef": 0,
+      "landedMade": null,
+      "es": null,
+      "total": 46.805,
+      "ss": null,
+      "leadingArea": null,
+      "place": "5",
+      "fractions": {
+        "time": 0,
+        "reach": 0,
+        "distance": 0.17910532,
+        "leading": 0,
+        "effort": 0.64013672,
         "arrival": 0
       }
     }
